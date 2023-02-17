@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3c622538afde1854b9e6be8e4ee1a372
+guid: 52334841627f2e7489daf6f308d6cb10
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -116,22 +116,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 15 Blob TileMap 16x16_0
+      name: idle_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 352
-        width: 48
-        height: 48
+        x: 1507
+        y: 0
+        width: 1492
+        height: 1430
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f59d00abb5bc9f46bee2fbc364cd9d5
-      internalID: -626140025
+      spriteID: c8e75442b69fa3044b3ace12eb3d45c6
+      internalID: 1426837773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_1
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 0
+        width: 1492
+        height: 1430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9359e15e880d8a24d83242dd9a455857
+      internalID: 1853670813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_4
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 0
+        width: 1491.5
+        height: 1430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7241e8abbb780418831bf828a4a6ac
+      internalID: -289457908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_5
+      rect:
+        serializedVersion: 2
+        x: 8946
+        y: 0
+        width: 1491.5
+        height: 1430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b478fca864ce4194e08934f6285f3
+      internalID: -362316667
       vertices: []
       indices: 
       edges: []
@@ -140,14 +203,19 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      15 Blob TileMap 16x16_0: -626140025
+      idle_4: -289457908
+      idle_3: 1564937097
+      idle_0: 1426837773
+      idle_1: 1853670813
+      idle_2: 2074589423
+      idle_5: -362316667
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
